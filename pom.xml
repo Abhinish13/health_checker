@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.t4tektutorials.abhinish</groupId>
-	<artifactId>demo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<artifactId>healthcheck</artifactId>
+	<version>0.0.2-SNAPSHOT</version>
+	<name>healthcheck</name>
 	<description>Demo project for Spring Boot</description>
 
 
